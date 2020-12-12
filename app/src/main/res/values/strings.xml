@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheCoffeeHouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_map_key">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+    <string name="slogan">Welcome to TheCoffeeHouse</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="regis"><u>Want to SignUp?</u></string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
